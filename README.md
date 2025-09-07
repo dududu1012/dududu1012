@@ -1,16 +1,26 @@
-## Hi there 👋
+| 这个属于哪个课程     | [23级计科34班](https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/)     |
+| ---- | ---- | 
+| 这份作业的要求在哪里     | [自我介绍+软工五问](https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13478)     |
+| 这个作业的目标     |自我介绍以及学会怎么用Markdown去编写一篇博客      |
 
-<!--
-**dududu1012/dududu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##一、自我介绍
+很高兴认识大家，我是23级计科4班的颜嘉盈，来自广东湛江，希望能跟大家在接下来的时间好好相处
 
-Here are some ideas to get you started:
+- **兴趣爱好：**
+1.喜欢各类球类运动比如羽毛球、乒乓球、篮球等等
+2.喜欢听音乐、看电影
+- **学习经历：** 学习了C、Java语言，有合作做项目的经验
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##二、阅读教材后的疑问
+1.软件生命周期是什么？
+2.在软件开发的过程中怎么保持对开发的积极性？
+3.软件测试中，黑盒测试与白盒测试的适用场景边界是什么？
+4.面向对象开发中，继承与组合的选择依据是什么？
+5.如何进行软件开发，需要分为几步去实现？
+
+##三、对这门课程期待的收获
+1.希望通过这学期的学习，我可以知道软件开发的一个流程以及怎么去一步步实现这个流程
+2.可以加强我个人编程的能力，提高我跟别人一个交流互助和团队协同的能力
+
+##四、附录
+![屏幕截图](https://img2024.cnblogs.com/blog/3698621/202509/3698621-20250907152816017-170739113.png)
